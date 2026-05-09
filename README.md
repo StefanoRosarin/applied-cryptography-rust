@@ -12,6 +12,7 @@ This repository focuses on bridging rigorous mathematical thinking with practica
 - key exchange protocols
 - zero-knowledge systems
 - cryptographic protocol design
+- post-quantum cryptography
 
 ## Repository (possible) Structure 
 
@@ -39,3 +40,5 @@ This repository is an evolving long-term project focused on applied cryptography
 - Serious Cryptography — Jean-Philippe Aumasson
 - Handbook of Applied Cryptography
 - Real World Cryptography — David Wong
+- An introduction to mathematical cryptography — Jeffrey Hoffstein
+- Post-Quantum Cryptography — Daniel J. Bernstein
